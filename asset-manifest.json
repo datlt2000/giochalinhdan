@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/datlt2000/giochalinhdan/static/css/main.15979bb4.css",
-    "main.js": "/datlt2000/giochalinhdan/static/js/main.0af935f8.js",
-    "static/js/787.eae3f77e.chunk.js": "/datlt2000/giochalinhdan/static/js/787.eae3f77e.chunk.js",
-    "static/media/giolua.png": "/datlt2000/giochalinhdan/static/media/giolua.1548aa1fde9938a9b8c4.png",
-    "static/media/gio-ga.png": "/datlt2000/giochalinhdan/static/media/gio-ga.de5257217c6ccb72bdb9.png",
-    "static/media/gio-heo.png": "/datlt2000/giochalinhdan/static/media/gio-heo.47d6b010c0a3b9ab711d.png",
-    "static/media/cha-ca.jpg": "/datlt2000/giochalinhdan/static/media/cha-ca.4318f8e200816a316764.jpg",
-    "static/media/cha-que.jpg": "/datlt2000/giochalinhdan/static/media/cha-que.25b8f10d096ba9e3e764.jpg",
-    "static/media/nem-thinh.jpg": "/datlt2000/giochalinhdan/static/media/nem-thinh.ee2b45648827516ed80f.jpg",
-    "static/media/cha-bo.jpg": "/datlt2000/giochalinhdan/static/media/cha-bo.68d10d5188be207042d3.jpg",
-    "static/media/cha-lua.jpg": "/datlt2000/giochalinhdan/static/media/cha-lua.e36a41de8433b3bbdcbe.jpg",
-    "static/media/revicons.eot": "/datlt2000/giochalinhdan/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/datlt2000/giochalinhdan/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/datlt2000/giochalinhdan/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/datlt2000/giochalinhdan/index.html",
-    "main.15979bb4.css.map": "/datlt2000/giochalinhdan/static/css/main.15979bb4.css.map",
-    "main.0af935f8.js.map": "/datlt2000/giochalinhdan/static/js/main.0af935f8.js.map",
-    "787.eae3f77e.chunk.js.map": "/datlt2000/giochalinhdan/static/js/787.eae3f77e.chunk.js.map"
+    "main.css": "/giochalinhdan/static/css/main.bd6e814a.css",
+    "main.js": "/giochalinhdan/static/js/main.4fb9432b.js",
+    "static/js/787.eae3f77e.chunk.js": "/giochalinhdan/static/js/787.eae3f77e.chunk.js",
+    "static/media/giolua.png": "/giochalinhdan/static/media/giolua.1548aa1fde9938a9b8c4.png",
+    "static/media/gio-ga.png": "/giochalinhdan/static/media/gio-ga.de5257217c6ccb72bdb9.png",
+    "static/media/gio-heo.png": "/giochalinhdan/static/media/gio-heo.47d6b010c0a3b9ab711d.png",
+    "static/media/cha-ca.jpg": "/giochalinhdan/static/media/cha-ca.4318f8e200816a316764.jpg",
+    "static/media/cha-que.jpg": "/giochalinhdan/static/media/cha-que.25b8f10d096ba9e3e764.jpg",
+    "static/media/nem-thinh.jpg": "/giochalinhdan/static/media/nem-thinh.ee2b45648827516ed80f.jpg",
+    "static/media/cha-bo.jpg": "/giochalinhdan/static/media/cha-bo.68d10d5188be207042d3.jpg",
+    "static/media/cha-lua.jpg": "/giochalinhdan/static/media/cha-lua.e36a41de8433b3bbdcbe.jpg",
+    "static/media/revicons.eot": "/giochalinhdan/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/giochalinhdan/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/giochalinhdan/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/giochalinhdan/index.html",
+    "main.bd6e814a.css.map": "/giochalinhdan/static/css/main.bd6e814a.css.map",
+    "main.4fb9432b.js.map": "/giochalinhdan/static/js/main.4fb9432b.js.map",
+    "787.eae3f77e.chunk.js.map": "/giochalinhdan/static/js/787.eae3f77e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15979bb4.css",
-    "static/js/main.0af935f8.js"
+    "static/css/main.bd6e814a.css",
+    "static/js/main.4fb9432b.js"
   ]
 }
